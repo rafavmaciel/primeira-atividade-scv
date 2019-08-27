@@ -6,7 +6,7 @@
     <th>Nome</th>
   </tr>
 <tr>
-    <th>099.700.094.51</th>
-    <th>Rafael Galvao Maciel</th>
+    <td>099.700.094.51</th>
+    <td>Rafael Galvao Maciel</th>
   </tr>
 </table>
